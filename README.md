@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS3, MySQL and R**
 
-- 📫 How to reach me **carloscassol0510@gmail.com**
+- 📫 How to reach me via e-mail- **carloscassol0510@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/carlos-cassol-9325aa213/](https://www.linkedin.com/in/carlos-cassol-9325aa213/)
 
