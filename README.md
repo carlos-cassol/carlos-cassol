@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Carlinhusk/col-studs](https://github.com/Carlinhusk/col-studs)
 
-- 💬 Ask me about **HTML, CSS3, MySQL and R**
+- 💬 Ask me about **HTML, CSS3, MySQL, PHP and R**
 
 - 📫 How to reach me via e-mail- **carloscassol0510@gmail.com**
 
