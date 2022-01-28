@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **some personal projects for coding improvement**
 
-- 🌱 I’m currently learning **frontend on Alura**
+- 🌱 I’m currently learning **JS on udemy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Carlinhusk/col-studs](https://github.com/Carlinhusk/col-studs)
 
