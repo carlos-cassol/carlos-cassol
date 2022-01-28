@@ -30,25 +30,11 @@
 <div>
   <a href="https://github.com/Carlinhusk%22%3E" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlinhusk&hide_rank=true&custom_title=Meus Status&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true/"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlinhusk&layout=compact&langs_count=6&theme=tokyonight%22/%3E"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlinhusk&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
                            
                            
                            
                            
-                           
-                           
-                           
-                           
-                           <!---
-- 👋 Hi, I’m @Carlinhusk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-
-Carlinhusk/Carlinhusk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
