@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS on udemy**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Carlinhusk/col-studs](https://github.com/Carlinhusk/col-studs)
+- 👨‍💻 All of my projects are available at [https://github.com/Carlinhusk/col-studs](https://github.com/Carlinhusk/col-studs), https://github.com/Carlinhusk/free_projects
 
 - 💬 Ask me about **HTML, CSS3, MySQL, PHP and R**
 
