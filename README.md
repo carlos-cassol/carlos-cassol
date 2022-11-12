@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **some personal projects for coding improvement**
 
-- 🌱 I’m currently learning **JS on udemy**
+- 🌱 I’m currently learning **C# on udemy**
 
 - 👨‍💻 All of my projects are available at https://github.com/Carlinhusk/free_projects , [https://github.com/Carlinhusk/col-studs](https://github.com/Carlinhusk/col-studs)
 
-- 💬 Ask me about **HTML, CSS3, MySQL, PHP and R**
+- 💬 Ask me about **HTML, CSS3, MySQL and C#**
 
 - 📫 How to reach me via e-mail- **carloscassol0510@gmail.com**
 
