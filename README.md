@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C# on udemy**
 
-- 👨‍💻 All of my projects are available at https://github.com/Carlinhusk/free_projects , [https://github.com/Carlinhusk/col-studs](https://github.com/Carlinhusk/col-studs)
+- 👨‍💻 All of my projects are available at https://github.com/carlos-cassol/free_projects , [https://github.com/carlos-cassol/col-studs](https://github.com/Carlinhusk/col-studs)
 
 - 💬 Ask me about **HTML, CSS3, MySQL and C#**
 
