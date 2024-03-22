@@ -9,7 +9,7 @@
 
 - 👨‍💻 My most recent project is avaliable at https://github.com/carlos-cassol/CarDealership
 
-- 💬 Ask me about **HTML, CSS3, MySQL and C#**
+- 💬 Ask me about **C#, MySql, JS, HTML and CSS3**
 
 - 📫 How to reach me via e-mail- **carloscassol0510@gmail.com**
 
