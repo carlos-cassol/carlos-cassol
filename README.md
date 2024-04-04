@@ -28,9 +28,7 @@
 ##
 
 <div>
-  <a href="https://github.com/carlos-cassol%22%3E" />
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlos-cassol)](https://github.com/anuraghazra/github-readme-stats)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-cassol&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-cassol&layout=compact&langs_count=5&theme=tokyonight"/>
 </div>
 
                            
