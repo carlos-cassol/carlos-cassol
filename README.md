@@ -13,7 +13,7 @@
 
 - 📫 How to reach me via e-mail- **carloscassol0510@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/carlos-cassol-9325aa213/](https://www.linkedin.com/in/carlos-cassol-9325aa213/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/carlos-cassol-9325aa213/](https://www.linkedin.com/in/carlos-cassol)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
