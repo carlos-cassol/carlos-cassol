@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Cassol</h1>
-<h3 align="center">A game addicted and coding-lover from Brazil</h3>
+<h3 align="center">A car addicted and coding-lover from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlinhusk&label=Profile%20views&color=0e75b6&style=flat" alt="carlinhusk" /> </p>
 
 - 🔭 I’m currently working on **some personal projects for coding improvement**
 
