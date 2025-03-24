@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **some personal projects for coding improvement**
 
-- 🌱 I’m currently learning **C# on udemy**
+- 🌱 I’m currently learning **C# and NestJS on udemy**
 
 - 👨‍💻 My most recent project is avaliable at https://github.com/carlos-cassol/CarDealership
 
