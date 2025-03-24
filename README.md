@@ -8,7 +8,7 @@
 
 - 👨‍💻 My most recent project is avaliable at https://github.com/carlos-cassol/CarDealership
 
-- 💬 Ask me about **C#, MySql, JS, HTML and CSS3**
+- 💬 Ask me about **C#, NestJS, SQLServer, MySql and JS**
 
 - 📫 How to reach me via e-mail- **carloscassol0510@gmail.com**
 
